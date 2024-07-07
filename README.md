@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **gavandeparagrcpit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1akmc9lDuCG7It153m8THJy-VqNqOqcsJ/view](https://drive.google.com/file/d/1akmc9lDuCG7It153m8THJy-VqNqOqcsJ/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fzcveiIIp03M23_VfaNXk9ZEd2wM9XX-/view?usp=sharing](https://drive.google.com/file/d/1fzcveiIIp03M23_VfaNXk9ZEd2wM9XX-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
