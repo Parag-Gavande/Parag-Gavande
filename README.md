@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Gavande Parag Dattatray</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Computer Engineering Student</h3>
 
-- 🌱 I’m currently learning **DSA From CodeHelp Academy**
+- 🌱 I’m currently in **search of Job which utilize and enhance my skills**
 
 - 📫 How to reach me **gavandeparagrcpit@gmail.com**
 
